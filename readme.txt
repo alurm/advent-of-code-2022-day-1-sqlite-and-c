@@ -7,3 +7,5 @@ Strategy: import the input file "input" to SQLite table and run a SQL statement 
 To run, install SQLite development dependency, a C compiler and run:
 
 	sh run.sh
+
+License: MIT.
