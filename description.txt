@@ -1,0 +1,28 @@
+Deers need stars
+
+Fifty stars by December 25th
+
+Foot expedition
+
+Each Elf carries I items of C calories
+
+Example
+
+1000
+2000
+3000
+
+4000
+
+5000
+6000
+
+7000
+8000
+9000
+
+10000
+
+Find Elf carrying most calories
+
+How many calories is that Elf carrying?

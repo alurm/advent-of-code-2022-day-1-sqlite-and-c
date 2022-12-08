@@ -1,0 +1,43 @@
+Import data to SQL
+
+Arrays get converted to rows
+
+Table name: input
+
+Fields: elf_id, item_id, calories
+
+	create table input
+		(elf_id integer, item_id integer, calories integer);
+
+Example part of input:
+
+13495
+7368
+13905
+
+Created rows:
+
+	elf_id:
+		0
+		0
+		0
+
+	calories:
+		13495
+		7368
+		13905
+
+	item_id:
+		0
+		1
+		2
+
+Sample statement:
+
+	insert
+		into input
+		(elf_id, calories, item_id)
+		values
+			(0, 13495, 0),
+			(0, 7368, 1),
+			(0, 13905, 2);
