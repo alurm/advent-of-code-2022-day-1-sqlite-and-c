@@ -1,6 +1,6 @@
 This is a solution to day 1 of advent of code 2022 in SQL and C.
 
-Advent of Code: https://adventofcode.com/
+Advent of Code: https://adventofcode.com.
 
 Used database: SQLite.
 
